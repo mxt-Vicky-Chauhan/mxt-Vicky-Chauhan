@@ -19,8 +19,7 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 - 🔍 I'm looking for help with **Advanced Playwright automation and best practices**
 - 🌱 I'm currently learning **Advanced Playwright automation and scalable testing frameworks**
 - 💬 Ask me about **Automation strategy, Playwright, Selenium, and testing best practices**
-- 📫 How to reach me: **vicky.chauhan921@gmail.com**
-- 🌐 All of my projects are available at [here](vicky.chauhan921@gmail.com)
+- 📫 How to reach me: **v.chauhan@maxxton.com**
 - ⚡ Fun fact: **I enjoy breaking software before users do 😄**
 
 ## 🛠️ Skills & Tools
@@ -43,7 +42,7 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/github/followers/VickyChauhan921?label=follow&style=social)](https://github.com/VickyChauhan921)
+[![GitHub](https://img.shields.io/github/followers/VickyChauhan921?label=follow&style=social)](https://github.com/mxt-Vicky-Chauhan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vicky9762)
 [![Twitter](https://img.shields.io/twitter/follow/VickyChauhan921?label=follow&style=social)](https://twitter.com/VickyChauhan921)
 
@@ -64,8 +63,6 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center">Generated with ❤️ for QA Engineers</p>
 
 ## 👀 Profile Views
 
