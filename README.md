@@ -14,7 +14,7 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working at **🔭 I'm currently working at Maxxton India Pvt. Ltd.**
+- 🔭 I'm currently working at **🔭 Maxxton India Pvt. Ltd.**
 - 🤝 I'm looking to collaborate on **QA automation projects and testing frameworks**
 - 🔍 I'm looking for help with **Advanced Playwright automation and best practices**
 - 🌱 I'm currently learning **Advanced Playwright automation and scalable testing frameworks**
