@@ -63,5 +63,3 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center">Generated with ❤️ for QA Engineers</p>
