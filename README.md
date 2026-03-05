@@ -54,12 +54,6 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VickyChauhan921&label=Profile%20Views&color=6C3FD1&style=flat)
 
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=VickyChauhan921&label=Profile%20Views&color=6C3FD1&style=flat)
-
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VickyChauhan921&bg_color=ffffff&color=6C3FD1&line=6C3FD1&point=6C3FD1&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
